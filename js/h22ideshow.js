@@ -1,0 +1,90 @@
+$(document).ready(function(){
+  $("#hideShow-1").click(function(){
+    $("#divTable-1").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-2").click(function(){
+    $("#divTable-2").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-3").click(function(){
+    $("#divTable-3").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-4").click(function(){
+    $("#divTable-4").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-5").click(function(){
+    $("#divTable-5").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-6").click(function(){
+    $("#divTable-6").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-7").click(function(){
+    $("#divTable-7").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-8").click(function(){
+    $("#divTable-8").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-9").click(function(){
+    $("#divTable-9").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-10").click(function(){
+    $("#divTable-10").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-11").click(function(){
+    $("#divTable-11").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-12").click(function(){
+    $("#divTable-12").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-13").click(function(){
+    $("#divTable-13").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-14").click(function(){
+    $("#divTable-14").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-15").click(function(){
+    $("#divTable-15").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-16").click(function(){
+    $("#divTable-16").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-17").click(function(){
+    $("#divTable-17").toggle(300);
+  });
+});
+$(document).ready(function(){
+  $("#hideShow-18").click(function(){
+    $("#divTable-18").toggle(300);
+  });
+});
